@@ -29,5 +29,5 @@ Mil Gracias go to a few people who helped me along on making this project:
 
 * [Robert Hart](http://www.hardhack.org.au/geiger_muller_detector), for providing the original inspiration and designs for this project.
 * Christoph at [Boxtec](https://shop.boxtec.ch/), for overnighting me some awesome little [SI-180G Geiger tubes](http://shop.boxtec.ch/geiger-mueller-tube-180g-p-40722.html).
-* [Mighty OHM](http://mightyohm.com/blog/), who sells an awesome little [Geiger Counter kit](http://mightyohm.com/blog/products/geiger-counter/)
+* [Mighty Ohm](http://mightyohm.com/blog/), who sells an awesome little [Geiger Counter kit](http://mightyohm.com/blog/products/geiger-counter/)
 * The talented folks on the [GeigerCounterEnthusiasts Yahoo Group](http://tech.groups.yahoo.com/group/GeigerCounterEnthusiasts/), for helping me diagnose some power supply issues.
