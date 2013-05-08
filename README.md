@@ -1,6 +1,8 @@
 # Muon Detector
 By Max Henstell
 
+## What's All This Then?
+
 This is a basic Muon detector that uses three Geiger-Müller tubes, three high-voltage supplies, and a [Teensy](http://www.pjrc.com/teensy/) (Arduino-compatible) microcontroller. The Teensy provides three PWM outputs that drive the HV supplies, and watches the outputs of the tubes for the voltage spikes characteristic of an electrical avalanche signifying an ionization event.
 
 This detector isn't meant to be scientifically accurate; rather it was intended as a neat desktop device to make you aware of the cosmic rays passing through you at all times.
@@ -13,7 +15,15 @@ As an afterthought, I added a [MAX 7221](http://playground.arduino.cc//Main/MAX7
 
 Sorry for the unfinished nature of the project, I was intended as a quick present and I wasn't expecting anyone to ask me for the source. Please feel free to contact me if you have any questions about making your own.
 
-# Special Thanks
+## Write-Ups
+
+I did a few short write-ups on my blog detailing how the Muon detector works and a few of the problems I had along the way. Check em out!
+
+* [Part One](http://mmmaaa.xxx/blog/space-1.html)
+* [Part Two](http://mmmaaa.xxx/blog/space-2.html)
+* [Part Three](http://mmmaaa.xxx/blog/space-3.html)
+
+## Special Thanks
 
 Mil Gracias go to a few people who helped me along on making this project:
 
